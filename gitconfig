@@ -1,0 +1,15 @@
+[user]
+	name = Jack Henahan
+	email = jhenahan@me.com
+
+[credential]
+
+[core]
+	excludesfile = ~/.config/git/gitignore
+
+[hub]
+protocol = git
+[push]
+	default = simple
+[mergetool]
+	keepBackup = true
